@@ -1,0 +1,11 @@
+mariadb:
+  url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
+  password: '{cipher}06b3c11a3138225a6b39ffe4fd6ee79d0d89fa1c5f6d6daba4984d150c6b1222'
+
+userservice: 
+  registration: 
+    disabled: true
+    
+
+  
+  
